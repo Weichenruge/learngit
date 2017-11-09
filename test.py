@@ -1,4 +1,6 @@
 # -*- coding:UTF-8 -*-
+
+#n秒输出完成
 import time
 n = int(input('输入时间：'))
 count = 0
