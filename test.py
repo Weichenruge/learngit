@@ -10,3 +10,4 @@ while (count < n):
     count += 1
 print('Good bye!')
     
+#one line
